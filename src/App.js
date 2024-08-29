@@ -10,6 +10,8 @@ const App = () => {
       <Container>
         <Hero />   
         <p>Mohanedd</p>
+        <p>Mohanedd</p>
+
      </Container>
     </>
   );
