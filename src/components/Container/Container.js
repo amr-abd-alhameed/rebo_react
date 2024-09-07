@@ -2,9 +2,9 @@
 
 const Container = (props) => {
   return (
-    <Container>
-      {props.children}
-    </Container>
+    <div style ={{color:"white"}}>
+    you are fool
+    </div>
   )
 }
 

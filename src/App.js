@@ -1,18 +1,15 @@
 import "./App.css";
-
-import {Container} from "./components/index";
-import {Header, Hero, MostPopular} from "./sections/index";
+import Container from "./components/Container/Container";
 
 const App = () => {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Container>
-        <Hero />   
-        <p>Mohanedd</p>
-        <p>Mohanedd</p>
+    
 
      </Container>
+     <h1> hello world</h1>
     </>
   );
 };
